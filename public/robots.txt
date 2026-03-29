@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps are not applicable for this single-page assessment tool.
+# This file allows all search engines and AI crawlers to index the landing page.

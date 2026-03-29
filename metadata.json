@@ -1,0 +1,5 @@
+{
+  "name": "AI Readiness Assessor",
+  "description": "An interactive tool based on the Government of Canada's AI Readiness Scorecard to evaluate operational and technical opportunities for AI.",
+  "requestFramePermissions": []
+}
